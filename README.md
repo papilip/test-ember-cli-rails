@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+bin/rails generate resource platform name:string licence:integer api_key:string:128 comment:text
+bin/rails generate scaffold platform name:string licence:integer api_key:string:128 comment:text

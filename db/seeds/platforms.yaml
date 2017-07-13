@@ -1,0 +1,461 @@
+---
+adopteladit:
+  :name: adopteladit
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: a7e08fec1f866bc1718f32212e076896
+arkema:
+  :name: arkema
+  :licence: 350
+  :comment:
+  :api_key: e389f7d4d01ac1b733dd01416e794597
+arkenergie:
+  :name: arkenergie
+  :licence: 150
+  :comment: From QCCV1
+  :api_key: eb50073090b07d399a55deb903f5bc22
+atkearney:
+  :name: atkearney
+  :licence: 20
+  :comment: From luke
+  :api_key: 3ace35e822b493ba5022365cd0d8b8df
+bearingpoint:
+  :name: bearingpoint
+  :licence: 100
+  :comment: From QCCV1
+  :api_key: 858286e0d33129018cea0a2b7133cda2
+bip-bouygues-construction:
+  :name: bip-bouygues-construction
+  :licence: 30
+  :comment: From QCCV1
+  :api_key: d002880fe69c93d129a92c9523a46a39
+capgemini-essai:
+  :name: capgemini-essai
+  :licence: 50
+  :comment: From luke
+  :api_key: 246ec87723cf2ac692991b3280604afc
+cgi-deploiement:
+  :name: cgi-deploiement
+  :licence: 50
+  :comment: From luke
+  :api_key: 24ca6588c4690eb8b0823e77d8a02f1c
+comply:
+  :name: comply
+  :licence: 50
+  :comment:
+  :api_key: 0469fb748294f80fb5dcb86ccf79e67c
+ctim:
+  :name: ctim
+  :licence: 10
+  :comment: From QCCV1
+  :api_key: 889919cac6af79bceb6e45e0d1e60e62
+cuisine:
+  :name: cuisine
+  :licence: 12
+  :comment:
+  :api_key: 2c1856edcef43a8fc0766036849875a2
+cylad1:
+  :name: cylad1
+  :licence: 10
+  :comment: From QCCV1
+  :api_key: 21dcbe1a884f6b7452b860d0db0da052
+cylad2:
+  :name: cylad2
+  :licence: 10
+  :comment: From QCCV1
+  :api_key: 3154cea7ab4358f34600be0b49ec3b2a
+darwin:
+  :name: darwin
+  :licence: 25
+  :comment: From QCCV1
+  :api_key: 2cffd4e2e833000da92235c51a3b4862
+darwin-2015:
+  :name: darwin-2015
+  :licence: 80
+  :comment: From QCCV1
+  :api_key: f1247714910677777c2e768bd6a51383
+demo-i-cube:
+  :name: demo-i-cube
+  :licence: 500
+  :comment: From luke
+  :api_key: 6117061b676ad685f5fe05f5d0883c85
+demo1-oresys:
+  :name: demo1-oresys
+  :licence: 20
+  :comment: From QCCV1
+  :api_key: aa238628a3cc13777ef073bc4a3bef1e
+demo10-oresys:
+  :name: demo10-oresys
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 4a6b05f13583a944701fa4af0873a78p
+demo2-oresys:
+  :name: demo2-oresys
+  :licence: 20
+  :comment: From QCCV1
+  :api_key: 9810bf0d00f40b2d1461a2f4891d5e07
+demo3-oresys:
+  :name: demo3-oresys
+  :licence: 20
+  :comment: From QCCV1
+  :api_key: c8c3a978076042248afeb484aa69b146
+demo4-oresys:
+  :name: demo4-oresys
+  :licence: 20
+  :comment: From QCCV1
+  :api_key: cd7bbf5464169d33c7a40b0a1c9f0034
+demo5-oresys:
+  :name: demo5-oresys
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 4a6b05f13583a944701fa4af0873a78k
+demo6-oresys:
+  :name: demo6-oresys
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 4a6b05f13583a944701fa4af0873a78l
+demo7-oresys:
+  :name: demo7-oresys
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 4a6b05f13583a944701fa4af0873a78m
+demo8-oresys:
+  :name: demo8-oresys
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 4a6b05f13583a944701fa4af0873a78n
+demo9-oresys:
+  :name: demo9-oresys
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 4a6b05f13583a944701fa4af0873a78o
+deploiement-defi:
+  :name: deploiement-defi
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 7ee5c2adce22ada0b1f4791ba2c4e198
+deploiement-eni:
+  :name: deploiement-eni
+  :licence: 30
+  :comment: From luke
+  :api_key: 2a479a1b3bd0bfd151289f333a5c0378
+deploiement-teos:
+  :name: deploiement-teos
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 46944cd418952488a8ef65ab953d0990
+devel:
+  :name: devel
+  :licence: 30
+  :comment: From QCCV1
+  :api_key: c85989b94b19938be263a6ba605d3c6d
+easis:
+  :name: easis
+  :licence: 20
+  :comment: From luke
+  :api_key: 325eaad5ec6c10b85aad1a1f35411176
+edf-si-pluri:
+  :name: edf-si-pluri
+  :licence: 10
+  :comment: From QCCV1
+  :api_key: 674e8aec1b768559926230ed9dc04828
+elan-new:
+  :name: elan-new
+  :licence: 50
+  :comment:
+  :api_key: 1e9c1af1b7ddddef7fda640aeb524bc9
+emib:
+  :name: emib
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 859e8a57a2a3fd6fb59b3a8a56710c07
+eni:
+  :name: eni
+  :licence: 15
+  :comment: From QCCV1
+  :api_key: 2e14a83b4100bd58355105c21c12c0a8
+eo:
+  :name: eo
+  :licence: 50
+  :comment: From luke
+  :api_key: cf52ffb1066dde2d4e2558158cefc6b5
+esantepicardie:
+  :name: esantepicardie
+  :licence: 25
+  :comment: From QCCV1
+  :api_key: 4a6b05f13583a944701fa4af0873a78j
+esantepicardie-backup:
+  :name: esantepicardie-backup
+  :licence: 25
+  :comment: From luke
+  :api_key: 4a6b05f13583a944701fa4af0873a78j
+esantepicardie-test:
+  :name: esantepicardie-test
+  :licence: 20
+  :comment: From luke
+  :api_key: eca2d480337a2dc104907b665493877a
+esci:
+  :name: esci
+  :licence: 20
+  :comment: From luke
+  :api_key: 1f47f4f76ccb004ab3b6582434c95257
+fbdgroup:
+  :name: fbdgroup
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 33d2d542d4ae1d74f6a0f0dc3c6c50f1
+florent:
+  :name: florent
+  :licence: 100
+  :comment:
+  :api_key: 0b14a4d7ea528b094404a50ef475ec9d
+gazpar:
+  :name: gazpar
+  :licence: 80
+  :comment: From QCCV1
+  :api_key: cbe34f86dbf93b7629535ce21c39ced6
+gazpar-pilotage:
+  :name: gazpar-pilotage
+  :licence: 70
+  :comment: From QCCV1
+  :api_key: 88bb54ac4fc5f3374966c2b683367035
+gd:
+  :name: gd
+  :licence: 10
+  :comment: From luke
+  :api_key: 4cb273b8764e355e0ef3a5cd72364c75
+grt-deploiement:
+  :name: grt-deploiement
+  :licence: 1000
+  :comment:
+  :api_key: 8765dc29f29998342ec7ed6d09e04001
+i-cube:
+  :name: i-cube
+  :licence: 300
+  :comment: From QCCV1
+  :api_key: aa6d9a7dfa71f3365baf6f5795d6c30e
+imex-ag:
+  :name: imex-ag
+  :licence: 1000
+  :comment:
+  :api_key: cd806ad9ae95baac1567794c9755492a
+imex-deploiement:
+  :name: imex-deploiement
+  :licence: 20
+  :comment:
+  :api_key: 27eccbf984fd0fe061a64138bb93d361
+internal:
+  :name: internal
+  :licence: 10
+  :comment: From QCCV1
+  :api_key: ab01dcfb6d1064f7dabebb9e978ead0d
+kea:
+  :name: kea
+  :licence: 20
+  :comment:
+  :api_key: 170e8ad13b72dc191666d8ad91bd16fb
+la-poste-multi-projets:
+  :name: la-poste-multi-projets
+  :licence: 20
+  :comment: From QCCV1
+  :api_key: a825a6a15d276b99cc5d0deb0dd2412d
+metro-moncao:
+  :name: metro-moncao
+  :licence: 20
+  :comment:
+  :api_key: 468194f82067642864ea9018ffae3dcc
+metrocashandcarry:
+  :name: metrocashandcarry
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 097ca3a36ce24b39f9c48463bb8935fa
+mif:
+  :name: mif
+  :licence: 15
+  :comment:
+  :api_key: d5cec8a7240c74288fbd490498e3b020
+newbiz-factory:
+  :name: newbiz-factory
+  :licence: 200
+  :comment:
+  :api_key: fe5c1552bc9193a14ca49bc504c5dc4c
+novacap:
+  :name: novacap
+  :licence: 100
+  :comment:
+  :api_key: 32e9eaa9083b4e377ff4053144ccbe56
+odas:
+  :name: odas
+  :licence: 40
+  :comment: From QCCV1
+  :api_key: 83d15ac96714f41afb5c5b33a69d3917
+oresys:
+  :name: oresys
+  :licence: 300
+  :comment: From QCCV1
+  :api_key: 4f1b4c366484aafe2c3411645cb47e91
+oresys-d2d:
+  :name: oresys-d2d
+  :licence: 35
+  :comment: From luke
+  :api_key: 46871dcda07f566b54f55e863b85b4b7
+osc:
+  :name: osc
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 21c5c0a2ae1221796f6b4d7e0b53cded
+parismusees:
+  :name: parismusees
+  :licence: 20
+  :comment: From luke
+  :api_key: 66c5fc7bb1ee378a60dc067d349aa30f
+pixi-w8:
+  :name: pixi-w8
+  :licence: 25
+  :comment: From QCCV1
+  :api_key: 8f5af944f9aa96fc26592cedb4e812ae
+pmb:
+  :name: pmb
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 2006b6cb518fd4c8cd845b4672315e40
+pmo-airliquide:
+  :name: pmo-airliquide
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: 6e48a0364fadfd08e720d0009e18fda8
+ppc:
+  :name: ppc
+  :licence: 55
+  :comment: From luke
+  :api_key: d68542d03a34a7e119244aa3e15caaf0
+preprod:
+  :name: preprod
+  :licence: 100
+  :comment: From QCCV1
+  :api_key: 8d72cdd1eee7e75ddbdcd4f6a9027b3b
+programmeaida:
+  :name: programmeaida
+  :licence: 15
+  :comment: From QCCV1
+  :api_key: d25a9931ca212f552c36c381a91773a4
+reseau:
+  :name: reseau
+  :licence: 50
+  :comment: From luke
+  :api_key: b822b2e6d37de4abce5ec2a4d73da2ec
+reseau-2020:
+  :name: reseau-2020
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: f76c232c3e4e82689885397f6ea6d5ff
+reydel:
+  :name: reydel
+  :licence: 50
+  :comment: From QCCV1
+  :api_key: a0b87a7b7399e5b26899620ec56138a4
+rhapsomig:
+  :name: rhapsomig
+  :licence: 30
+  :comment: From QCCV1
+  :api_key: 16885cc36598ffd08782f01bf4b421d1
+safeandgo:
+  :name: safeandgo
+  :licence: 25
+  :comment: From QCCV1
+  :api_key: 4305cac7c94ed051b440e8d9d33f8244
+salesforce:
+  :name: salesforce
+  :licence: 20
+  :comment:
+  :api_key: 11197d15038dfd35bb4fd8a15d127ec0
+sanofi-geodis:
+  :name: sanofi-geodis
+  :licence: 10
+  :comment: From QCCV1
+  :api_key: 18dc33c007f664dd52ca2d4b37053b30
+sapin2:
+  :name: sapin2
+  :licence: 20
+  :comment:
+  :api_key: 8b345e25112f8f18b560cb89be3c0880
+scr:
+  :name: scr
+  :licence: 40
+  :comment: From luke
+  :api_key: b6a96fd51e1e28f283049802622a929f
+si:
+  :name: si
+  :licence: 10
+  :comment: From luke
+  :api_key: 307469c1f0576d7189a03bcf0550690b
+sirius1:
+  :name: sirius1
+  :licence: 20
+  :comment: From QCCV1
+  :api_key: b7c41ed1bf14493f4c8376699d937b8f
+sirius2:
+  :name: sirius2
+  :licence: 20
+  :comment: From QCCV1
+  :api_key: 6fb59f9c6b515f6fd11273d672271843
+sita:
+  :name: sita
+  :licence: 100
+  :comment: From QCCV1
+  :api_key: f486de3b96bfad1056942719337cf59e
+sous-traitance-oresys:
+  :name: sous-traitance-oresys
+  :licence: 10
+  :comment: From QCCV1
+  :api_key: 12346bf0efa084864d494f92b2b17898
+suez-simetier:
+  :name: suez-simetier
+  :licence: 100
+  :comment: From QCCV1
+  :api_key: c8ba4f8ead822633c897be557990960f
+symphonie-ssi:
+  :name: symphonie-ssi
+  :licence: 40
+  :comment: From QCCV1
+  :api_key: 859fcea09053b5b195dad4f55a86d26c
+symphonie-ssi-test:
+  :name: symphonie-ssi-test
+  :licence: 30
+  :comment: From luke
+  :api_key: 42f1be361f8391519f0f15bba3a8f267
+totalsis:
+  :name: totalsis
+  :licence: 20
+  :comment: From QCCV1
+  :api_key: 33323b81ea46af4220316dcfa33215cc
+transformation:
+  :name: transformation
+  :licence: 20
+  :comment:
+  :api_key: 6b4673cecfca81e2124735676c215d75
+universite-oresys:
+  :name: universite-oresys
+  :licence: 20
+  :comment:
+  :api_key: 627355d111a07a4395cf0dd71b8a6d10
+variability:
+  :name: variability
+  :licence: 100
+  :comment: From QCCV1
+  :api_key: de74e898d2559d4456bb9a6c9f18ef7e
+veille-pw-consultants:
+  :name: veille-pw-consultants
+  :licence: 27
+  :comment: From QCCV1
+  :api_key: 6d053dd86098b160d9b26d3d7460a792
+wikit:
+  :name: wikit
+  :licence: 150
+  :comment: From QCCV1
+  :api_key: 879f2d2006c2be9b853c0d0e7033b8c6
+wiseorga:
+  :name: wiseorga
+  :licence: 20
+  :comment: From luke
+  :api_key: ab0b123d4c02f1da840683fb0718847c
