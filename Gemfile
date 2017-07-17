@@ -8,6 +8,7 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.2'
+gem 'ember-cli-rails'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
